@@ -1,0 +1,11 @@
+C:\Users\rakar\source\repos\Expendio\Controlador\obj\Debug\Controlador.csprojAssemblyReference.cache
+C:\Users\rakar\source\repos\Expendio\Controlador\obj\Debug\Controlador.csproj.CoreCompileInputs.cache
+C:\Users\rakar\source\repos\Expendio\Controlador\bin\Debug\Controlador.dll
+C:\Users\rakar\source\repos\Expendio\Controlador\bin\Debug\Controlador.pdb
+C:\Users\rakar\source\repos\Expendio\Controlador\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\rakar\source\repos\Expendio\Controlador\bin\Debug\Modelo.dll
+C:\Users\rakar\source\repos\Expendio\Controlador\bin\Debug\Modelo.pdb
+C:\Users\rakar\source\repos\Expendio\Controlador\bin\Debug\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\rakar\source\repos\Expendio\Controlador\obj\Debug\Controlador.csproj.CopyComplete
+C:\Users\rakar\source\repos\Expendio\Controlador\obj\Debug\Controlador.dll
+C:\Users\rakar\source\repos\Expendio\Controlador\obj\Debug\Controlador.pdb

@@ -1,0 +1,4 @@
+C:\Users\rakar\source\repos\Expendio\Controlador\Fakes\Modelo.fakes : warning : No se puede generar stub para Modelo.ClsManejador: el tipo no es visible para exported or assembly(Modelo.Fakes).
+C:\Users\rakar\source\repos\Expendio\Controlador\Fakes\Modelo.fakes : warning : No se puede generar stub para Modelo.ClsParametro: el tipo no es visible para exported or assembly(Modelo.Fakes).
+C:\Users\rakar\source\repos\Expendio\Controlador\Fakes\Modelo.fakes : warning : No se puede generar shim para Modelo.ClsManejador: el tipo no es visible para exported or assembly(Modelo.Fakes).
+C:\Users\rakar\source\repos\Expendio\Controlador\Fakes\Modelo.fakes : warning : No se puede generar shim para Modelo.ClsParametro: el tipo no es visible para exported or assembly(Modelo.Fakes).
